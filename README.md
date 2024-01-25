@@ -14,3 +14,5 @@ Fitur Fitur
 
 * Login     : admin1
 * Password  : admin
+
+# Tata Cara Penggunaan Ada Pada Userguide.doc
